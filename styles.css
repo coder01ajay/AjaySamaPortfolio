@@ -1,0 +1,40 @@
+/* border style of a image */
+
+.d-block {
+ border-radius: 90%;
+}
+
+/* Add font style to particular alphabet */
+.highlighted-text{
+ font-weight: bold;
+}
+
+/* add background color */
+
+.row {
+    background-color: #ebebeb;
+}
+.container {
+   background-color: #ebebeb;
+   margin-top: 100px;
+}
+body {
+      background-color: #ebebeb;
+}
+
+/* margin */
+
+.container-2 {
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.bg-dark {
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-bottom: 50px;
+    margin-right: 50px;
+    background-color: #ebebeb;
+}
+
